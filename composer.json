@@ -1,5 +1,5 @@
 {
-    "name": "geerlingguy/ping",
+    "name": "unicalabs/ping",
     "description": "A PHP class to ping hosts.",
     "license": "MIT",
     "authors": [
